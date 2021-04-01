@@ -1,38 +1,326 @@
-[
-	{
-		"gId": 1,
+[ 
+    {
+		"gId": 0,
 		"sensor": "temperature",
 		"time": "12-4-2020",
 		"value": 66
 	},
 	{
-		"gId": 1,
+		"gId": 0,
 		"sensor": "temperature",
 		"time": "12-5-2020",
 		"value": 62
 	},
 	{
-		"gId": 1,
+		"gId": 0,
 		"sensor": "temperature",
 		"time": "12-6-2020",
 		"value": 80
 	},
 	{
-		"gId": 1,
+		"gId": 0,
 		"sensor": "temperature",
 		"time": "12-7-2020",
 		"value": 84
 	},
 	{
-		"gId": 1,
+		"gId": 0,
 		"sensor": "temperature",
 		"time": "12-8-2020",
 		"value": 85
 	},
 	{
-		"gId": 1,
+		"gId": 0,
 		"sensor": "temperature",
 		"time": "12-9-2020",
 		"value": 86
-	}
+	},
+    {
+        "gId": 0,
+        "sensor": "moisture",
+        "time": "12-4-2020",
+        "value": 12
+    },
+    {
+        "gId": 0,
+        "sensor": "moisture",
+        "time": "12-5-2020",
+        "value": 13
+    },
+    {
+        "gId": 0,
+        "sensor": "moisture",
+        "time": "12-6-2020",
+        "value": 15
+    },
+    {
+        "gId": 0,
+        "sensor": "moisture",
+        "time": "12-7-2020",
+        "value": 11
+    },
+    {
+        "gId": 0,
+        "sensor": "moisture",
+        "time": "12-8-2020",
+        "value": 14
+    },
+    {
+        "gId": 0,
+        "sensor": "moisture",
+        "time": "12-9-2020",
+        "value": 10
+    },
+    {
+        "gId": 0,
+        "sensor": "acidity",
+        "time": "12-4-2020",
+        "value": 7
+    },
+    {
+        "gId": 0,
+        "sensor": "acidity",
+        "time": "12-5-2020",
+        "value": 8
+    },
+    {
+        "gId": 0,
+        "sensor": "acidity",
+        "time": "12-6-2020",
+        "value": 7
+    },
+    {
+        "gId": 0,
+        "sensor": "acidity",
+        "time": "12-7-2020",
+        "value": 6
+    },
+    {
+        "gId": 0,
+        "sensor": "acidity",
+        "time": "12-8-2020",
+        "value": 8
+    },
+    {
+        "gId": 0,
+        "sensor": "acidity",
+        "time": "12-9-2020",
+        "value": 7
+    },
+        {
+		"gId": 1,
+		"sensor": "temperature",
+		"time": "12-4-2020",
+		"value": 75
+	},
+	{
+		"gId": 1,
+		"sensor": "temperature",
+		"time": "12-5-2020",
+		"value": 73
+	},
+	{
+		"gId": 1,
+		"sensor": "temperature",
+		"time": "12-6-2020",
+		"value": 71
+	},
+	{
+		"gId": 1,
+		"sensor": "temperature",
+		"time": "12-7-2020",
+		"value": 75
+	},
+	{
+		"gId": 1,
+		"sensor": "temperature",
+		"time": "12-8-2020",
+		"value": 76
+	},
+	{
+		"gId": 1,
+		"sensor": "temperature",
+		"time": "12-9-2020",
+		"value": 73
+	},
+    {
+        "gId": 1,
+        "sensor": "moisture",
+        "time": "12-4-2020",
+        "value": 10
+    },
+    {
+        "gId": 1,
+        "sensor": "moisture",
+        "time": "12-5-2020",
+        "value": 12
+    },
+    {
+        "gId": 1,
+        "sensor": "moisture",
+        "time": "12-6-2020",
+        "value": 15
+    },
+    {
+        "gId": 1,
+        "sensor": "moisture",
+        "time": "12-7-2020",
+        "value": 13
+    },
+    {
+        "gId": 1,
+        "sensor": "moisture",
+        "time": "12-8-2020",
+        "value": 11
+    },
+    {
+        "gId": 1,
+        "sensor": "moisture",
+        "time": "12-9-2020",
+        "value": 14
+    },
+    {
+        "gId": 1,
+        "sensor": "acidity",
+        "time": "12-4-2020",
+        "value": 6
+    },
+    {
+        "gId": 1,
+        "sensor": "acidity",
+        "time": "12-5-2020",
+        "value": 6
+    },
+    {
+        "gId": 1,
+        "sensor": "acidity",
+        "time": "12-6-2020",
+        "value": 7
+    },
+    {
+        "gId": 1,
+        "sensor": "acidity",
+        "time": "12-7-2020",
+        "value": 6
+    },
+    {
+        "gId": 1,
+        "sensor": "acidity",
+        "time": "12-8-2020",
+        "value": 7
+    },
+    {
+        "gId": 1,
+        "sensor": "acidity",
+        "time": "12-9-2020",
+        "value": 8
+    },
+        {
+		"gId": 2,
+		"sensor": "temperature",
+		"time": "12-4-2020",
+		"value": 69
+	},
+	{
+		"gId": 2,
+		"sensor": "temperature",
+		"time": "12-5-2020",
+		"value": 65
+	},
+	{
+		"gId": 2,
+		"sensor": "temperature",
+		"time": "12-6-2020",
+		"value": 72
+	},
+	{
+		"gId": 2,
+		"sensor": "temperature",
+		"time": "12-7-2020",
+		"value": 75
+	},
+	{
+		"gId": 2,
+		"sensor": "temperature",
+		"time": "12-8-2020",
+		"value": 74
+	},
+	{
+		"gId": 2,
+		"sensor": "temperature",
+		"time": "12-9-2020",
+		"value": 78
+	},
+    {
+        "gId": 2,
+        "sensor": "moisture",
+        "time": "12-4-2020",
+        "value": 11
+    },
+    {
+        "gId": 2,
+        "sensor": "moisture",
+        "time": "12-5-2020",
+        "value": 10
+    },
+    {
+        "gId": 2,
+        "sensor": "moisture",
+        "time": "12-6-2020",
+        "value": 12
+    },
+    {
+        "gId": 2,
+        "sensor": "moisture",
+        "time": "12-7-2020",
+        "value": 13
+    },
+    {
+        "gId": 2,
+        "sensor": "moisture",
+        "time": "12-8-2020",
+        "value": 14
+    },
+    {
+        "gId": 2,
+        "sensor": "moisture",
+        "time": "12-9-2020",
+        "value": 10
+    },
+    {
+        "gId": 2,
+        "sensor": "acidity",
+        "time": "12-4-2020",
+        "value": 7
+    },
+    {
+        "gId": 2,
+        "sensor": "acidity",
+        "time": "12-5-2020",
+        "value": 7
+    },
+    {
+        "gId": 2,
+        "sensor": "acidity",
+        "time": "12-6-2020",
+        "value": 7
+    },
+    {
+        "gId": 2,
+        "sensor": "acidity",
+        "time": "12-7-2020",
+        "value": 6
+    },
+    {
+        "gId": 2,
+        "sensor": "acidity",
+        "time": "12-8-2020",
+        "value": 7
+    },
+    {
+        "gId": 2,
+        "sensor": "acidity",
+        "time": "12-9-2020",
+        "value": 8
+    }
 ]
