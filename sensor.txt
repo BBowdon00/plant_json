@@ -34,7 +34,7 @@
 		"sensor": "temperature",
 		"time": "12-9-2020",
 		"value": 86
-	}
+	},
     {
         "gId": 0,
         "sensor": "moisture",
