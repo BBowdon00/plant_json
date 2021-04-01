@@ -142,7 +142,7 @@
 		"sensor": "temperature",
 		"time": "12-9-2020",
 		"value": 73
-	}
+	},
     {
         "gId": 1,
         "sensor": "moisture",
@@ -250,7 +250,7 @@
 		"sensor": "temperature",
 		"time": "12-9-2020",
 		"value": 78
-	}
+	},
     {
         "gId": 2,
         "sensor": "moisture",
